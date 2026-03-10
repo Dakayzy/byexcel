@@ -1,0 +1,5 @@
+{
+  "name": "ByExcel",
+  "description": "Upload an Excel file to transform its format and download the result.",
+  "requestFramePermissions": []
+}
